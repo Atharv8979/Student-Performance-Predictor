@@ -55,6 +55,15 @@ The project is organized into separate Python files:
 | `predict_student.py`  | Accepts new student data and predicts their exam results using the trained model. |
 | `main.py`             | Main program that provides a menu to use all other modules interactively. |
 
+## Sample CSV Format
+
+The student_data.csv file stores student data in this format:
+
+| study_hours |	sleep_hours	| attendance_percent | assignment_score	| exam_result |
+|-------------|-------------|--------------------|------------------|-------------|
+| 7	| 7	| 85 | 75	| 80 |
+| 5	| 6	| 70 | 65	| 68 |
+
 ## Installation & Setup
 1. Download the project files.  
 2. Open a terminal or command prompt in the folder containing the Python files.  
