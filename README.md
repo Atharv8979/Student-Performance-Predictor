@@ -92,6 +92,13 @@ python main.py
 - Expand features to include participation, quizzes, or other performance indicators.
 - Enable batch predictions for multiple students at once.
 
+## Learning Outcomes
+- Understand the workflow of a simple ML project.
+- Handle and analyze structured data using pandas.
+- Train and evaluate regression models with scikit-learn.
+- Make predictions on new student data.
+- Gain practical Python scripting experience for ML tasks.
+
 ## 👨‍💻 Author
 
 **Atharv Bisht**  
